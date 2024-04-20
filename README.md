@@ -1,4 +1,6 @@
-### Hi there 👋
+# ![https://mouredev.com](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_emote.png) Hi, my name is Erick Arauco 👋
+### Software Develper, IT Consultant, Cryptographic Developer
+
 
 <!--
 **earaucomoreno/earaucomoreno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
