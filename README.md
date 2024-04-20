@@ -1,4 +1,4 @@
-# (https://github.com/earaucomoreno/earaucomoreno/edit/main/mylogo.png) Hi, my name is Erick Arauco 👋
+# Hi!, my name is Erick Arauco 👋
 ### Software Develper, IT Consultant, Cryptographic Developer
 
 
