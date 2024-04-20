@@ -5,7 +5,7 @@ Hi, my name is Erick, and I am a software engineer. I worked for many years as a
 
 I love not just to develop software; I love to research and develop new solutions to make life easier.
 
-Currently, I am a final-semester student in Data Science and Machine Learning at Red River College in Canada. I am excited about how to apply and combine it with my current background in Canada and with the rest of the world. Thanks for visiting my profile and enjoy!
+I graduated with a degree in Data Science and Machine Learning from Red River College in Canada. I am eager to explore how I can integrate and leverage this expertise with my existing skills to make a global impact. Thank you for visiting my profile and I hope you find it insightful!
 
 📫 How to reach me:
 
