@@ -1,4 +1,4 @@
-# ![https://mouredev.com](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_emote.png) Hi, my name is Erick Arauco 👋
+# (https://github.com/earaucomoreno/earaucomoreno/edit/main/mylogo.png) Hi, my name is Erick Arauco 👋
 ### Software Develper, IT Consultant, Cryptographic Developer
 
 
