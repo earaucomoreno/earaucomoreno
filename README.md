@@ -26,44 +26,32 @@ Currently, I am a final-semester student in Data Science and Machine Learning at
 
   Software Developer - Project Manager
 
-  - HomeBanking Project
-    https://zonasegura.cajasullana.pe/CMACSullanaHomeBanking/login.htm
+  - HomeBanking Project. Oversaw the creation of a comprehensive HomeBanking platform, delivering a user-friendly, secure, and accessible online banking experience to customers. This project involved the end-to-end development of digital banking services, including account management, transaction processing, and customer support features. Incorporating the latest in cybersecurity measures, the platform provided a robust framework that ensured customer transactions were safe and private, fostering trust and enhancing user engagement with digital financial services. https://zonasegura.cajasullana.pe/CMACSullanaHomeBanking/login.htm
 
   - Mobile Project
     
-  - CajaRapp
-    https://www.linkedin.com/pulse/cajarapp-de-caja-sullana-lidera-la-transformaci%C3%B3n/
+  - CajaRapp. Caja Sullana's CajaRapp leads digital transformation in microfinance, offering a rapid three-minute loan disbursement via a fully digital process. This innovative app underpins financial inclusion and sustainable community development, leveraging facial recognition and geolocation for seamless operations. https://www.linkedin.com/pulse/cajarapp-de-caja-sullana-lidera-la-transformaci%C3%B3n/
 
   - Integration Bus, Gateway TCP, Security Bus Management.
-
 
 - "Caja Municipal de Ahorro y Crédito Cusco" - Cusco, Perú
   - Integration Bus, Gateway TCP, Security Bus Management.
-  - Wayki App: https://apps.apple.com/pe/app/wayki-app-caja-cusco-m%C3%B3vil/id1495718202?platform=iphone
+  - Wayki App: The "Wayki App" by Caja Cusco enhances digital banking for users with swift and secure transactions, reflecting a commitment to digital innovation in the financial sector. This app stands as a significant digital ally, named after the Quechua word for "friend," offering interbank transfers, credit payments, and comprehensive financial services. https://apps.apple.com/pe/app/wayki-app-caja-cusco-m%C3%B3vil/id1495718202?platform=iphone
   
 - "Niubiz" - Lima, Perú
-  - Cryptographic Manager Platform
-  - Integration to HSM Payshield Thales 9K / 10K
-  - Symmetric / Asymmetric keys management.
-  - Keyblock / Variant format.
-  - 3DES, RSA, AES Keys.
+  - Spearheaded the integration and management of the Thales PayShield 9K/10K Hardware Security Modules, ensuring robust security for cryptographic operations. Skilled in the administration of both symmetric and asymmetric key management systems, adept in utilizing Keyblock and Variant techniques. Proficient in the generation, management, and implementation of cryptographic keys including 3DES, RSA, and AES protocols.
 
 - "Financiera OH" - Lima, Perú
-  - Cryptographic Manager Platform
-  - Integration to HSM Payshield Thales 9K / 10K
-  - Symmetric / Asymmetric keys management.
-  - 3DES, RSA, AES Keys.
+  - Spearheaded the integration and management of the Thales PayShield 9K/10K Hardware Security Modules, ensuring robust security for cryptographic operations. Skilled in the administration of both symmetric and asymmetric key management systems, adept in utilizing Keyblock and Variant techniques. Proficient in the generation, management, and implementation of cryptographic keys including 3DES, RSA, and AES protocols.
     
 - "Caja Metropolitana de Lima" - Lima, Perú
-  - Cryptographic Manager Platform
-  - Integration to HSM Payshield Thales 9K / 10K
-  - Symmetric / Asymmetric keys management.
-  - Keyblock / Variant format.
-  - 3DES, RSA, AES Keys.
+  - Spearheaded the integration and management of the Thales PayShield 9K/10K Hardware Security Modules, ensuring robust security for cryptographic operations. Skilled in the administration of both symmetric and asymmetric key management systems, adept in utilizing Keyblock and Variant techniques. Proficient in the generation, management, and implementation of cryptographic keys including 3DES, RSA, and AES protocols.
     
 - "JPMorgan" - Lima, Perú
-  - Integration to HSM Luna
-  - Symmetric / Asymmetric keys management.
-  - Keyblock / Variant format.
-  - 3DES, RSA, AES Keys.
+  -Spearheaded the integration and management of the HSM Luna Hardware Security Modules, ensuring robust security for cryptographic operations. Skilled in the administration of both symmetric and asymmetric key management systems, adept in utilizing Keyblock and Variant techniques. Proficient in the generation, management, and implementation of cryptographic keys including 3DES, RSA, and AES protocols.
+
+- Online Interbank Transfer Project:
+Led a pivotal project to develop and implement an online interbank transfer system. The initiative established a seamless, secure platform for real-time financial transactions between banks, utilizing advanced encryption protocols to ensure data integrity and confidentiality. This system modernized the banking infrastructure, offering customers a swift and reliable method to transfer funds across different financial institutions. https://www.transferenciasinterbancarias.pe/
+
+
   
